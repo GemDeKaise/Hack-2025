@@ -1,0 +1,12 @@
+{
+    "veridica": {
+        "base_url": "https://www.veridica.ro",
+        "trust_level": 0.9,
+        "categories": {
+            "fact_checking": {
+                "url": "https://www.veridica.ro/fake-news-dezinformare-propaganda",
+                "description": "Fact checking and debunking of fake news, disinformation, and propaganda"
+            }
+        }
+    }
+} 
